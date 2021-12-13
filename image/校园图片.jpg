@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0036)http://www.sclsyz.com/Item/5969.aspx -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta content="校园照片" name="Description">
+<meta content="" name="Keywords">
+<title>校园照片-乐山一中公共信息网</title>
+<link type="text/css" rel="stylesheet" href="./校园图片_files/photoatlas.css">
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+   
+</script>
+<script language="javascript" type="text/javascript" src="./校园图片_files/epidiascope.js.下载"></script>
+<script language="javascript" type="text/javascript" src="./校园图片_files/jquery.pack.js.下载"></script>
+<script language="javascript" type="text/javascript" src="./校园图片_files/jquery.peex.js.下载"></script>
+<script language="javascript" type="text/javascript" src="./校园图片_files/sinaflash.js.下载"></script>
+
+<!--[if IE 6]>
+<script type="text/javascript" src="/Template/Default/Skin/js/DD_belatedPNG.js"></script>
+<script>
+  DD_belatedPNG.fix('.cloumn .hd h3,.focusBox .hd ul li');
+</script>
+<![endif]--> 
+<script>
+$(document).ready(function() {
+     $(".header_r .phone").hover(function(){
+     $(".phone_erweima").show();
+  },function(){
+       $(".phone_erweima").hide();
+  });
+    $(".weChat").hover(function(){
+     $(".weChat_bewm").show();
+  },function(){
+       $(".weChat_bewm").hide();
+  });
+  $(".footer_r .phone").hover(function(){
+     $(".phone_bewm").show();
+  },function(){
+       $(".phone_bewm").hide();
+  });
+
+  $(".searchbtn").click(function(){
+     $(".searchBar").slideToggle();
+  });
+});
+</script>
+</head>
+<body> 
+<div class="container"> 
+
+   <div class="header">
+      <!--页面头部开始-->
+      <div class="pic-header pic-top">
+           <div class="sw">   
+               <h1 id="logo" title="乐山一中公共信息网">
+                <a href="http://www.sclsyz.com/"><img src="./校园图片_files/logo.png" alt="乐山一中公共信息网"></a>
+               </h1>
+               <div class="ri eControl">
+                <div class="ecCont" style="position: relative;">
+                  <div id="ecbFullScreen" title="点击全屏获得更好观看效果" style="position: relative; z-index: 5;">
+                    <div class="buttonCont" id="fullScreenFlash"><object id="fullScreenObj" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="100%" height="100%" type="application/x-shockwave-flash">
+	<param name="movie" value="/Template/Default/Skin/swf/image_player.swf">
+	<param name="quality" value="best">
+	<param name="bgcolor" value="#000000">
+	<param name="wmode" value="transparent">
+	<param name="allowfullscreen" value="true">
+	<param name="allowscriptaccess" value="always">
+	<param name="flashvars" value="mylinkpic=http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251237107062.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251252148638.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238360979.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238586282.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239134761.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239260103.jpg&amp;infotxt=校园照片&amp;mytxt=校园照片#　　教学区俯瞰图|校园照片#　　校园俯瞰图|校园照片#　　名人长廊|校园照片#　　沫若广场|校园照片#　　馨香满校园|校园照片#　　图书馆一隅&amp;fulls_btnx=0&amp;fulls_btny=0&amp;fulls_btnalpha=0">
+	<embed id="fullScreenObj" width="100%" height="100%" src="/Template/Default/Skin/swf/image_player.swf" quality="best" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#000000" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" flashvars="mylinkpic=http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251237107062.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251252148638.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238360979.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238586282.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239134761.jpg|http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239260103.jpg&amp;infotxt=校园照片&amp;mytxt=校园照片#　　教学区俯瞰图|校园照片#　　校园俯瞰图|校园照片#　　名人长廊|校园照片#　　沫若广场|校园照片#　　馨香满校园|校园照片#　　图书馆一隅&amp;fulls_btnx=0&amp;fulls_btny=0&amp;fulls_btnalpha=0">
+</object></div>
+                  </div>
+                  <div id="ecbSpeed" style="position: relative; z-index: 5;">
+                    <div id="ecbSpeedInfo" class="buttonCont">5秒</div>
+                  </div>
+                  <div id="ecbPre" title="上一张" style="position: relative; z-index: 5;">
+                    <div class="buttonCont"></div>
+                  </div>
+                  <div id="ecbPlay" style="position: relative; z-index: 5;">
+                    <div id="ecpPlayStatus" class="play" title="播放"></div>
+                  </div>
+                  <div id="ecbNext" title="下一张" style="position: relative; z-index: 5;">
+                    <div class="buttonCont"></div>
+                  </div>
+                  <div id="ecbLine">
+                    <div class="buttonCont"></div>
+                  </div>
+                  <div id="ecbMode" title="列表模式(tab)" style="position: relative; z-index: 5;">
+                    <div class="buttonCont"></div>
+                  </div>
+                  <div id="ecbModeReturn" title="返回幻灯模式(tab)" style="position: relative; z-index: 5;">
+                    <div class="buttonCont"></div>
+                  </div>
+                  <!-- 速度条 begin -->
+                  <div id="SpeedBox">
+                    <div id="SpeedCont">
+                      <div id="SpeedSlide"></div>
+                      <div id="SpeedNonius" style="top: 49px;"></div>
+                    </div>
+                  </div>
+                  <!-- 速度条 end --> 
+                <div class="buttonBg" style="top: 0px; left: 296px;"></div><div class="buttonBg" style="top: 0px; left: 198px;"></div><div class="buttonBg" style="top: 0px; left: 247px;"></div><div class="buttonBg" style="top: 0px; left: 346px;"></div><div class="buttonBg2" style="top: 0px; left: 0px;"></div><div class="buttonBg" style="top: 0px; left: 126px;"></div><div class="buttonBg" style="top: 0px; left: 0px;"></div></div>
+              </div>
+           </div>
+        </div>
+        <!--页面头部结束-->
+        
+   </div>
+
+<div class="main_content">
+    <div class="pathWrap">
+        <div class="path">
+            <em>您现在的位置：</em>
+            <em><a href="http://www.sclsyz.cn/">网站首页</a></em>&gt;&gt;
+    
+    
+    <a href="http://www.sclsyz.com/Category_1/Index.aspx" target="_blank">学校概况</a>&gt;&gt;
+    <a href="http://www.sclsyz.com/Category_15/Index.aspx" target="_blank">校园风景线</a>
+        </div>
+    </div>
+<div class="sw mainBox">
+   <div class="pic-bot">
+      <div class="h1title"> <span class="title" id="d_picTit">校园照片</span>&nbsp;&nbsp;<span id="total">(<span class="cC00">4</span>/6)</span></div>      
+      <div class="author">
+        <div class="lf">作者： | 来源： | 查看：
+    <script language="JavaScript" type="text/JavaScript" src="./校园图片_files/GetHits.aspx"></script>4118
+    | 发布时间：2017-10-25 </div>
+        <div class="ri">提示：支持键盘翻页 ←左 右→</div>
+      </div>
+    </div>
+   <!--信息主体开始-->
+  <div class="pic-main"> 
+    <!--内容信息开始-->
+    <div class="pic-imgInfo">
+      <div id="eFramePic">      
+        <div id="efpBigPic">
+          <div id="efpClew"><span id="efpClewClose" style="display: block;"></span></div>
+          <div id="d_BigPic" class="" style="position: relative; overflow: hidden; padding-top: 0px;"><img src="./校园图片_files/201710251238586282.jpg" width="800" height="468" style="opacity: 1; border: 1px solid rgb(0, 0, 0);"></div>
+          <a id="efpLeftArea" class="arrLeft" title="上一张"><span></span></a>
+          <a id="efpRightArea" class="arrRight" title="下一张"><span></span></a>
+          <!-- endSelect begin -->
+          <div id="endSelect" style="display: none; left: 408px; top: 214px;">
+            <div id="endSelClose"></div>
+            <div class="bg"></div>
+            <div class="E_Cont">
+              <p>您已经浏览完所有图片</p>
+              <p><a href="javascript:void(0)" id="rePlayBut"></a><a href="http://www.sclsyz.com/Item/6010.aspx" id="nextPicsBut"></a></p>
+            </div>
+          </div>
+          <!-- endSelect end --> 
+        </div>
+      </div>
+      <div id="ePicList"></div>
+    </div>
+    <!--内容信息结束--> 
+    <!--标题信息开始-->
+    <div id="ImgBox">
+    <div class="eTitle">
+      <!--<div class="h1title"> <span class="title" id="d_picTit"></span><span id="total">(<span class="cC00">0</span>/0)</span></div>-->
+      <div class="info_text" id="efpTxt">
+        <div id="d_picTime">2017年10月25日</div>
+        <div id="d_picIntro">沫若广场</div>
+      </div>
+    </div>
+    <!--标题信息结束--> 
+    </div>
+    <div class="conTxt">
+    
+   </div>
+    <!--图片列表开始-->
+    <div id="BottomPicList">
+      <div id="efpPicList">
+        <div id="efpPreGroup">
+          <div id="efpPrePic" onmouseover="this.className=&#39;selected&#39;" onmouseout="this.className=&#39;&#39;">
+            <table cellspacing="0">
+              <tbody><tr>
+                <td><a href="http://www.sclsyz.com/Item/5065.aspx"> <img src="./校园图片_files/201610251036273004_105_70.jpg" alt="乐山一中第三届校园活动摄影展获奖作品展" title="乐山一中第三届校园活动摄影展获奖作品展" border="0"></a></td>
+              </tr>
+            </tbody></table>
+          </div>
+          <div id="efpPreTxt"><a href="http://www.sclsyz.com/Item/5065.aspx" title="乐山一中第三届校园活动摄影展获奖作品展">&lt;&lt;上一图集</a></div>
+        </div>
+        <div id="efpInfo">
+          <div id="efpListLeftArr" onmouseover="this.className=&#39;selected&#39;" onmouseout="this.className=&#39;&#39;"> </div>
+          <div id="efpPicListCont"><div style="width:858px;padding-left:0px;"><div class="pic" id="slide_0"><a href="javascript:epidiascope.select(0);" onclick="this.blur();"><img src="./校园图片_files/201710251237107062_105_70.jpg" alt="校园照片" oncontextmenu="event.returnValue=false;return false;"></a></div><div class="pic" id="slide_1"><a href="javascript:epidiascope.select(1);" onclick="this.blur();"><img src="./校园图片_files/201710251252148638_105_70.jpg" alt="校园照片" oncontextmenu="event.returnValue=false;return false;"></a></div><div class="pic" id="slide_2"><a href="javascript:epidiascope.select(2);" onclick="this.blur();"><img src="./校园图片_files/201710251238360979_105_70.jpg" alt="校园照片" oncontextmenu="event.returnValue=false;return false;"></a></div><div class="picOn" id="slide_3"><a href="javascript:epidiascope.select(3);" onclick="this.blur();"><img src="./校园图片_files/201710251238586282_105_70.jpg" alt="校园照片" oncontextmenu="event.returnValue=false;return false;"></a></div><div class="pic" id="slide_4"><a href="javascript:epidiascope.select(4);" onclick="this.blur();"><img src="./校园图片_files/201710251239134761_105_70.jpg" alt="校园照片" oncontextmenu="event.returnValue=false;return false;"></a></div><div class="pic" id="slide_5"><a href="javascript:epidiascope.select(5);" onclick="this.blur();"><img src="./校园图片_files/201710251239260103_105_70.jpg" alt="校园照片" oncontextmenu="event.returnValue=false;return false;"></a></div></div></div>
+          <div id="efpListRightArr" onmouseover="this.className=&#39;selected&#39;" onmouseout="this.className=&#39;&#39;"> </div>
+        </div>
+        <div id="efpNextGroup">
+          <div id="efpNextPic" onmouseover="this.className=&#39;selected&#39;" onmouseout="this.className=&#39;&#39;">
+            <table cellspacing="0" style="width:100%;">
+              <tbody><tr>
+                <td><a href="http://www.sclsyz.com/Item/6010.aspx"> <img src="./校园图片_files/201710261117160073_105_70.jpg" alt="学校特色活动" title="学校特色活动" border="0"></a></td>
+              </tr>
+            </tbody></table>
+          </div>
+          <div id="efpNextTxt"><a href="http://www.sclsyz.com/Item/6010.aspx" title="学校特色活动">下一图集&gt;&gt;</a></div>
+        </div>
+        <div class="clearBox"></div>
+      </div>
+    </div>
+    <!--图片列表结束-->
+  </div>
+  <!--信息主体结束--> 
+   
+</div>
+</div>
+
+<div class="footer">
+  <div class="sw">
+    <div class="footer_t">
+      
+      <div class="footer_r">
+        <div class="footer_rt">
+          <a class="xinx" href="http://www.sclsyz.com/Category_47/Index.aspx"> <i></i>
+            <span>信箱</span>
+          </a>
+          <a class="sina" href="javascript:void(0);"> <i></i>
+            <span>微博</span>
+          </a>
+          <a class="weChat" href="javascript:void(0);">
+            <i></i>
+            <span>微信</span>
+          </a>
+          <a class="phone" href="javascript:void(0);">
+            <i></i>
+            <span>手机</span>
+          </a>
+          <div class="weib_bewm"></div>
+          <div class="weChat_bewm"></div>
+          <div class="phone_bewm"></div>
+        </div>
+        <div class="friendship">
+             
+<select id="friendsitelist" onclick="window.open(&#39;http://www.scjb.gov.cn/&#39;)"><option value="http://www.scjb.gov.cn/" onclick="window.open(http://www.scjb.gov.cn/)">不良与违法信息举报平台</option></select>
+          <!--
+            <select id="friendsitelist" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0"><option>友情链接</option><option value=http://www.sclsedu.gov.cn/>乐山市教育局</option><option value=http://www.scedu.net/>四川教育网</option></select>
+          -->
+       </div>
+        </div>
+      <div class="footer_l">
+        <a class="a1 first" title="网站首页" target="_blank" href="http://www.sclsyz.com/Default.aspx">网站首页</a><a class="a2" title="校园动态" target="_blank" href="http://www.sclsyz.com/Category_69/Index.aspx">校园动态</a><a class="a3" title="工作安排" href="http://www.sclsyz.com/Category_128/Index.aspx">工作安排</a><a class="a4" title="通知公告" target="_blank" href="http://www.sclsyz.com/Category_98/Index.aspx">通知公告</a><a class="a5" title="学校概况" target="_blank" href="http://www.sclsyz.com/Category_1/Index.aspx">学校概况</a><a class="a6" title="党建之窗" target="_blank" href="http://www.sclsyz.com/Category_2/Index.aspx">党建之窗</a><a class="a7" title="德育天地" target="_blank" href="http://www.sclsyz.com/Category_3/Index.aspx">德育天地</a><a class="a8" title="教学教科" target="_blank" href="http://www.sclsyz.com/Category_4/Index.aspx">教学教科</a><a class="a9" title="学生发展" target="_blank" href="http://www.sclsyz.com/Category_7/Index.aspx">学生发展</a><a class="a10 last" title="教工风采" target="_blank" href="http://www.sclsyz.com/Category_6/Index.aspx">教工风采</a>
+      </div>
+      <div class="footer_m">
+        <p class="p1"><span class="span1">总访问量：589090 人次</span> &nbsp;<span>总浏览量：2057304 人次</span> &nbsp;<span class="span1">今日访问：47 人次</span> &nbsp;<span>日均访问量：292 人次</span> &nbsp;<span>当前在线人数： 人次</span></p>
+        <div class="footer_mb">
+       <div class="sydw" style="
+    margin-left: 88px;
+">
+<span id="_ideConac"><a href="http://bszs.conac.cn/sitename?method=show&amp;id=2CA32E006F410A8BE053022819ACE565" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="./校园图片_files/blue_error.png" data-bd-imgshare-binded="1"></a></span>
+            <span id="_ideConac" style="margin-bottom: 1px;"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51110202000308" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="./校园图片_files/备案图标大3.png" data-bd-imgshare-binded="1" style="
+    margin-bottom: 8px;
+    height: 60px;
+    width: 60px;
+"></a></span>
+                      </div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="copyright"><span>版权所有@四川省乐山第一中学校</span>｜
+         <span>地址：乐山市市中区文星南街280号</span>｜
+         <span>邮编：614000</span>｜
+         <span>邮箱：sclsyzmaster@163.com</span> |
+         <span><a href="http://beian.miit.gov.cn/" target="_self">蜀ICP 备 14009370号</a></span> |
+         <span><a href="http://www.beian.gov.cn/">川公网备案 51110202000308号</a></span></div>
+  </div>
+
+<script src="./校园图片_files/CounterLink.aspx"></script><script type="text/javascript" src="./校园图片_files/Counter.aspx"></script>
+   </div>
+</div>
+<script type="text/javascript">
+        var dataInfo = {
+            title: '校园照片'
+        };
+
+        function echoFocus() {
+            var _url = '..//Common/GetSlideData.aspx?nodeId=15&itemId=5969';
+            getData.curUrl = _url;
+            sina._getJsData(_url,getData.fillData);
+        };
+
+        function fullFlash(txt, pic) {
+            var flashurl = "/Template/Default/Skin/swf/image_player.swf";
+            var fullScreen = new sinaFlash(flashurl, "fullScreenObj", "100%", "100%", "8", "#000000");
+            fullScreen.addParam("quality", "best");
+            fullScreen.addParam("wmode", "transparent");
+            fullScreen.addParam("allowFullScreen", "true");
+            fullScreen.addParam("allowScriptAccess", "always");
+            fullScreen.addVariable("mylinkpic", pic);   //此处添加组图标题
+            fullScreen.addVariable("infotxt", dataInfo.title);
+            //此处添加图片文字标题，导语，分别用"|"，"#"分割
+            fullScreen.addVariable("mytxt", txt);
+            fullScreen.addVariable("fulls_btnx", "0");
+            fullScreen.addVariable("fulls_btny", "0");
+            fullScreen.addVariable("fulls_btnalpha", "0")
+            fullScreen.write("fullScreenFlash");
+        };
+        function getFullScreenFlash() {
+            if (sina.isIE) {
+                return sina.$('fullScreenFlash').getElementsByTagName('object')[0];
+            } else {
+                return sina.$('fullScreenFlash').getElementsByTagName('embed')[0];
+            };
+        };
+        function flash_to_js(name) {
+            name = new String(name);
+            var status = name.split("|");
+            epidiascope.speedBar.setGrade(status[1]);
+            epidiascope.select(parseInt(status[0]));
+        };
+        function js_to_flash() {
+            epidiascope.stop();
+            return epidiascope.selectedIndex + "|" + epidiascope.speedBar.grade;
+        };
+        function errorFocus(str) {//错误
+            document.getElementById("d_picTit").innerHTML = str;
+            document.getElementById("d_BigPic").innerHTML = '<img src="http://image2.sina.com.cn/home/ddt/images/err02.gif" alt="' + str + '" />';
+        };
+
+        function next_jstoflash() {
+            if (getData.nextUrl.length <= 0) {
+                return;
+            } else {
+                epidiascope.ImgObj1.src = "";
+                sina._getJsData(getData.nextUrl, function () { getData.fillData(0); });
+            }
+        }
+        function pre_jstoflash() {
+            if (getData.preUrl.length <= 0) {
+                return;
+            } else {
+                epidiascope.ImgObj1.src = "";
+                sina._getJsData(getData.preUrl, function () { getData.fillData(1) });
+            }
+        }
+
+        var sendT = {
+            getHeader: function () {
+                return epidiascope.filmstrips[epidiascope.selectedIndex].title;
+            },
+            getFirstImgSrc: function () {
+                return epidiascope.ImgObj1.src;
+            }
+        }
+
+        echoFocus();
+    </script>
+<div style="display:none;">
+<script type="text/JavaScript" language="JavaScript">
+
+var slide_data = {title: '\u6821\u56ED\u7167\u7247',intro: '',datetime: '2017年10月25日',images:[ {original: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251237107062.jpg', thumbnail:'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251237107062_105_70.jpg', intro: '\u6559\u5B66\u533A\u4FEF\u77B0\u56FE' }, {original: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251252148638.jpg', thumbnail:'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251252148638_105_70.jpg', intro: '\u6821\u56ED\u4FEF\u77B0\u56FE' }, {original: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238360979.jpg', thumbnail:'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238360979_105_70.jpg', intro: '\u540D\u4EBA\u957F\u5ECA' }, {original: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238586282.jpg', thumbnail:'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251238586282_105_70.jpg', intro: '\u6CAB\u82E5\u5E7F\u573A' }, {original: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239134761.jpg', thumbnail:'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239134761_105_70.jpg', intro: '\u99A8\u9999\u6EE1\u6821\u56ED' }, {original: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239260103.jpg', thumbnail:'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710251239260103_105_70.jpg', intro: '\u56FE\u4E66\u9986\u4E00\u9685' }],next_album: {interface: '/Common/GetSideData.aspx?&amp;nodeId=15&amp;itemId=6010', title: '\u5B66\u6821\u7279\u8272\u6D3B\u52A8', url: '/Item/6010.aspx', thumb: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2017/10/201710261117160073_105_70.jpg' },prev_album: {interface: '/Common/GetSideData.aspx?&amp;nodeId=15&amp;itemId=5065', title: '\u4E50\u5C71\u4E00\u4E2D\u7B2C\u4E09\u5C4A\u6821\u56ED\u6D3B\u52A8\u6444\u5F71\u5C55\u83B7\u5956\u4F5C\u54C1\u5C55', url: '/Item/5065.aspx', thumb: 'http://file.sclsyz.cn:6060/Files/UploadFiles/xxgk/2016/10/201610251036273004_105_70.jpg' }};
+    
+</script>
+</div>
+
+<div style="position: static; display: none; width: 0px; height: 0px; border: none; padding: 0px; margin: 0px;"><div id="trans-tooltip"><div id="tip-left-top" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-left-top.png&quot;);"></div><div id="tip-top" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-top.png&quot;) repeat-x;"></div><div id="tip-right-top" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-right-top.png&quot;);"></div><div id="tip-right" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-right.png&quot;) repeat-y;"></div><div id="tip-right-bottom" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-right-bottom.png&quot;);"></div><div id="tip-bottom" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-bottom.png&quot;) repeat-x;"></div><div id="tip-left-bottom" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-left-bottom.png&quot;);"></div><div id="tip-left" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-left.png&quot;);"></div><div id="trans-content"></div></div><div id="tip-arrow-bottom" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-arrow-bottom.png&quot;);"></div><div id="tip-arrow-top" style="background: url(&quot;chrome-extension://jpjgjbbhaifmiigkopmnpbgcgmigaame/imgs/map/tip-arrow-top.png&quot;);"></div></div></body></html>
